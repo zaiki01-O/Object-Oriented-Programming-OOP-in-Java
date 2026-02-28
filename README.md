@@ -1,4 +1,4 @@
-##🚀 About This Repository
+## 🚀 About This Repository ##
 
 This repository contains well-organized notes on Object-Oriented Programming (OOP) covering core principles, theoretical foundations, and practical coding examples.
 
@@ -38,13 +38,13 @@ The goal is to build:
 
 🔹 Object Relationships (Association, Aggregation, Composition)
 
-##💻 Implementation Language
+##💻 Implementation Language##
 
 - Java (Primary focus)
 
 <i>Conceptual explanations applicable to other OOP languages</i>
 
-##🎓 Purpose
+## 🎓 Purpose ##
 
 <i>This repository is designed for:</i>
 
@@ -56,7 +56,7 @@ The goal is to build:
 
 - Technical interview preparation
 
-##📈 Learning Approach
+## 📈 Learning Approach ##
 
 ✔️ Concept → Definition
 ✔️ Theory → Explanation
@@ -64,11 +64,11 @@ The goal is to build:
 ✔️ Edge Cases → Understanding
 ✔️ Interview Perspective → Application
 
-##🤝 Contribution
+## 🤝 Contribution ##
 
 If you are learning OOP and want to improve conceptual clarity, feel free to fork and contribute.
 
-##⭐ Vision
+## ⭐ Vision ##
 
 <i>Mastering OOP is not just about writing classes —</i>
 - it is about designing scalable, maintainable, and efficient systems.
